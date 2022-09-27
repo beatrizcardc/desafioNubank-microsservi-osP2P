@@ -1,5 +1,6 @@
 # desafioNubank-microsserviçosP2P
-Desenvolvimento de microsserviço P2P para o Nubank
+Desenvolvimento de microsserviço P2P para o Nubank.
+
 O mercado de startups brasileiras vem crescendo cada vez mais, e em 2019 já tivemos novos unicórnios (termo utilizado para startups que chegaram ao valor de mercado de 1 bilhão de dólares), algumas delas são:
 
 99: Aplicativo de transporte disruptivo, sendo uma das principais concorrentes da Uber no Brasil.
